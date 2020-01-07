@@ -2,6 +2,7 @@
    "data":{
       "id":"unique string id",
       "name":"Project name",
+	  "update_date":"Date of the latest update",
       "banner":"Image link used in app",
       "description":"Some description related to the project",
       "developer_name":"Project developer name",
