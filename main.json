@@ -1,5 +1,7 @@
 {
-   "devices":{
+   "status": "true",
+   "message": "Data fetched successfully!",
+   "devices":[ {
       "begonia":{
          "device_name":"Xiaomi",
          "device_model":"Redmi Note 8 pro",
@@ -24,5 +26,6 @@
             "https://link/to/project.json"
          ]
       }
-   }
+	}
+   ]
 }
