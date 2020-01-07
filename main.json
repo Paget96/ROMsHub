@@ -1,0 +1,27 @@
+{
+  "devices": {
+		"begonia": {
+		  "device_name" : "Xiaomi",
+		  "device_model" : "Redmi Note 8 pro",
+			"kernels": [
+				  "https://link/to/project.json",
+				  "https://link/to/project.json"
+			],
+			"roms": [
+				  "https://link/to/project.json",
+				  "https://link/to/project.json"
+			]
+		}, "lavander": {
+		  "device_name" : "Xiaomi",
+		  "device_model" : "Redmi Note 7",
+				"kernels": [
+				  "https://link/to/project.json",
+				  "https://link/to/project.json"
+			],
+			"roms": [
+				  "https://link/to/project.json",
+				  "https://link/to/project.json"
+			]
+		}
+	}
+}
