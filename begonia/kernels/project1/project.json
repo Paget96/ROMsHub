@@ -1,12 +1,12 @@
 {
-"data": {
-	  "id": "unique string id",
-	  "name": "Project name",,
-	  "banner": "Image link used in app"
-	  "description": "Some description related to the project",
-	  "developer_name": "Project developer name",
-	  "source_git": "Source link, if it's open sourced",
-	  "forum_thread": "Put a forum thread, if exists",
-	  "telegram": "Add telegram group or channel link, if exists"
-}
+   "data":{
+      "id":"unique string id",
+      "name":"Project name",
+      "banner":"Image link used in app",
+      "description":"Some description related to the project",
+      "developer_name":"Project developer name",
+      "source_git":"Source link, if it's open sourced",
+      "forum_thread":"Put a forum thread, if exists",
+      "telegram":"Add telegram group or channel link, if exists"
+   }
 }
