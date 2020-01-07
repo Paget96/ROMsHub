@@ -1,34 +1,34 @@
 {
-   "status": "true",
-   "message": "Data fetched successfully!",
-   "devices":[ 
-   {
-      "begonia":{
-         "device_name":"Xiaomi",
-         "device_model":"Redmi Note 8 pro",
-		 "device_icon":"https://raw.githubusercontent.com/Paget96/ROMsHub/master/begonia/device_icon.png",
-         "kernels":[
-            "https://raw.githubusercontent.com/Paget96/ROMsHub/master/begonia/kernels/project1/project.json",
-            "https://raw.githubusercontent.com/Paget96/ROMsHub/master/begonia/kernels/project2/project.json"
-         ],
-         "roms":[
-            "https://raw.githubusercontent.com/Paget96/ROMsHub/master/begonia/roms/project1/project.json",
-            "https://raw.githubusercontent.com/Paget96/ROMsHub/master/begonia/roms/project2/project.json"
-         ]
-      },
-      "lavander":{
-         "device_name":"Xiaomi",
-         "device_model":"Redmi Note 7",
-		 "device_icon":"https://raw.githubusercontent.com/Paget96/ROMsHub/master/lavander/device_icon.png"",
-         "kernels":[
-            "https://raw.githubusercontent.com/Paget96/ROMsHub/master/lavander/kernels/project1/project.json",
-            "https://raw.githubusercontent.com/Paget96/ROMsHub/master/lavander/kernels/project2/project.json"
-         ],
-         "roms":[
-            "https://raw.githubusercontent.com/Paget96/ROMsHub/master/lavander/roms/project1/project.json",
-            "https://raw.githubusercontent.com/Paget96/ROMsHub/master/lavander/roms/project2/project.json"
-         ]
+   "status":"true",
+   "message":"Data fetched successfully!",
+   "devices":[
+      {
+         "begonia":{
+            "device_name":"Xiaomi",
+            "device_model":"Redmi Note 8 pro",
+            "device_icon":"https://raw.githubusercontent.com/Paget96/ROMsHub/master/begonia/device_icon.png",
+            "kernels":[
+               "https://raw.githubusercontent.com/Paget96/ROMsHub/master/begonia/kernels/project1/project.json",
+               "https://raw.githubusercontent.com/Paget96/ROMsHub/master/begonia/kernels/project2/project.json"
+            ],
+            "roms":[
+               "https://raw.githubusercontent.com/Paget96/ROMsHub/master/begonia/roms/project1/project.json",
+               "https://raw.githubusercontent.com/Paget96/ROMsHub/master/begonia/roms/project2/project.json"
+            ]
+         },
+         "lavander":{
+            "device_name":"Xiaomi",
+            "device_model":"Redmi Note 7",
+            "device_icon":"https://raw.githubusercontent.com/Paget96/ROMsHub/master/lavander/device_icon.png",
+            "kernels":[
+               "https://raw.githubusercontent.com/Paget96/ROMsHub/master/lavander/kernels/project1/project.json",
+               "https://raw.githubusercontent.com/Paget96/ROMsHub/master/lavander/kernels/project2/project.json"
+            ],
+            "roms":[
+               "https://raw.githubusercontent.com/Paget96/ROMsHub/master/lavander/roms/project1/project.json",
+               "https://raw.githubusercontent.com/Paget96/ROMsHub/master/lavander/roms/project2/project.json"
+            ]
+         }
       }
-	}
    ]
 }
