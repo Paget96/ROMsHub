@@ -1,38 +1,60 @@
 {
    "status":"true",
    "message":"Data fetched successfully!",
-   "brands": {
-         "Xiaomi":[
-            {
-               "brand_icon":"https://raw.githubusercontent.com/Paget96/ROMsHub/master/Xiaomi/brand_icon.png",
-               "begonia":{
-                  "device_model":"Redmi Note 8 pro",
-                  "device_icon":"https://raw.githubusercontent.com/Paget96/ROMsHub/master/Xiaomi/begonia/device_icon.png",
-                  "kernels":[
-                     "https://raw.githubusercontent.com/Paget96/ROMsHub/master/Xiaomi/begonia/kernels/project1/project.json",
-                     "https://raw.githubusercontent.com/Paget96/ROMsHub/master/Xiaomi/begonia/kernels/project2/project.json"
-                  ],
-                  "roms":[
-                     "https://raw.githubusercontent.com/Paget96/ROMsHub/master/Xiaomi/begonia/roms/project1/project.json",
-                     "https://raw.githubusercontent.com/Paget96/ROMsHub/master/Xiaomi/begonia/roms/project2/project.json"
-                  ]
-               },
-               "lavander":{
-                  "device_model":"Redmi Note 7",
-                  "device_icon":"https://raw.githubusercontent.com/Paget96/ROMsHub/master/Xiaomi/lavander/device_icon.png",
-                  "kernels":[
-                     "https://raw.githubusercontent.com/Paget96/ROMsHub/master/Xiaomi/lavander/kernels/project1/project.json",
-                     "https://raw.githubusercontent.com/Paget96/ROMsHub/master/Xiaomi/lavander/kernels/project2/project.json"
-                  ],
-                  "roms":[
-                     "https://raw.githubusercontent.com/Paget96/ROMsHub/master/Xiaomi/lavander/roms/project1/project.json",
-                     "https://raw.githubusercontent.com/Paget96/ROMsHub/master/Xiaomi/lavander/roms/project2/project.json"
-                  ]
-               }
+   "brand":{
+      "Xiaomi":[
+         {
+            "brand_icon":"https://raw.githubusercontent.com/Paget96/ROMsHub/master/Xiaomi/brand_icon.png",
+            "begonia":{
+               "device_model":"Redmi Note 8 pro",
+               "device_icon":"https://raw.githubusercontent.com/Paget96/ROMsHub/master/Xiaomi/begonia/device_icon.png",
+               "kernels":[
+                  {
+                     "project_type_icon":"https://raw.githubusercontent.com/Paget96/ROMsHub/master/resources/icons/placeholder.png",
+                     "project_json":[
+                        "https://raw.githubusercontent.com/Paget96/ROMsHub/master/Xiaomi/begonia/kernels/project1/project.json",
+                        "https://raw.githubusercontent.com/Paget96/ROMsHub/master/Xiaomi/begonia/kernels/project2/project.json"
+                     ]
+                  }
+               ],
+               "roms":[
+                  {
+                     "project_type_icon":"https://raw.githubusercontent.com/Paget96/ROMsHub/master/resources/icons/placeholder.png",
+                     "project_json":[
+                        "https://raw.githubusercontent.com/Paget96/ROMsHub/master/Xiaomi/begonia/roms/project1/project.json",
+                        "https://raw.githubusercontent.com/Paget96/ROMsHub/master/Xiaomi/begonia/roms/project2/project.json"
+                     ]
+                  }
+               ]
+            },
+            "lavander":{
+               "device_model":"Redmi Note 8 pro",
+               "device_icon":"https://raw.githubusercontent.com/Paget96/ROMsHub/master/Xiaomi/lavander/device_icon.png",
+               "kernels":[
+                  {
+                     "project_type_icon":"https://raw.githubusercontent.com/Paget96/ROMsHub/master/resources/icons/placeholder.png",
+                     "project_json":[
+                        "https://raw.githubusercontent.com/Paget96/ROMsHub/master/Xiaomi/lavander/kernels/project1/project.json",
+                        "https://raw.githubusercontent.com/Paget96/ROMsHub/master/Xiaomi/lavander/kernels/project2/project.json"
+                     ]
+                  }
+               ],
+               "roms":[
+                  {
+                     "project_type_icon":"https://raw.githubusercontent.com/Paget96/ROMsHub/master/resources/icons/placeholder.png",
+                     "project_json":[
+                        "https://raw.githubusercontent.com/Paget96/ROMsHub/master/Xiaomi/lavander/roms/project1/project.json",
+                        "https://raw.githubusercontent.com/Paget96/ROMsHub/master/Xiaomi/lavander/roms/project2/project.json"
+                     ]
+                  }
+               ]
             }
-         ],
-         "Samsung":{
+         }
+      ],
+      "Samsung":[
+         {
             "brand_icon":"https://raw.githubusercontent.com/Paget96/ROMsHub/master/Samsung/brand_icon.png"
          }
-      }
+      ]
+   }
 }
