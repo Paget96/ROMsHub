@@ -1,5 +1,5 @@
 {
-   "data":{
+   "data":[{
       "id":"unique string id",
       "name":"Project name",
 	  "update_date":"Date of the latest update",
@@ -9,5 +9,5 @@
       "source_git":"Source link, if it's open sourced",
       "forum_thread":"Put a forum thread, if exists",
       "telegram":"Add telegram group or channel link, if exists"
-   }
+   }]
 }
