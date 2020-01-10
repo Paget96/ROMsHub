@@ -110,6 +110,6 @@ This file contains all the informations about the project you added, and it's st
       "telegram":"https://t.me/Paget96"
    }]
 }
+```
 
 When you are done, create a pull request and I'll do a check soon as possible and get your project live in application.
-```
