@@ -3,26 +3,27 @@
 Simple app to keep all the custom ROMs and kernels for devices at one place. In order to add a project you should follow a next structure
 
 Repository root dir
-```|
-├──	**/Brand** (This should contain a brand name e.g Samsung, Xiaomi, OnePlus...
+```
+|
+├── **/Brand** (This should contain a brand name e.g Samsung, Xiaomi, OnePlus...
 |	├── **Device code name**
-|	|    |
-|	|	 ├── **Project type** (Kernel, ROM, or anything else)
-|	|	 |	|
-|	|	 |	├── **Project name** (e.g LineageOS 16. Fraco kernel r.41...)
-|	|	 |	|	|
-|	|	 |	|	├── **logo.png** (Logo must be 192x192 in PNG format)
-|	|	 |	|	|
-|	|	 |	|	└── **project.json** (This is a file which holds the project attributes)
-|	|	 |	|
-|	|	 |	├── (Another project name)
-|	|	 |	|
-|	|    |	├── (Another project name)
-|	|    |
-|	|	 |
-|	|	 ├── **device_icon.png** (This is a device icon shown on a device list for a particular brand, my recommendation is to take a picture for GSMArena and resize it to 192x(anything smaller or equal to 192) in PNG format)
-|   |    |
-|	|	 ├── (Another project type)
+|	|	|
+|	|	├── **Project type** (Kernel, ROM, or anything else)
+|	|	|	|
+|	|	|	├── **Project name** (e.g LineageOS 16. Fraco kernel r.41...)
+|	|	|	|	|
+|	|	|	|	├── **logo.png** (Logo must be 192x192 in PNG format)
+|	|	|	|	|
+|	|	|	|	└── **project.json** (This is a file which holds the project attributes)
+|	|	|	|
+|	|	|	├── (Another project name)
+|	|	|	|
+|	|	|	├── (Another project name)
+|	|	|
+|	|	|
+|	|	├── **device_icon.png** (This is a device icon shown on a device list for a particular brand, my recommendation is to take a picture for GSMArena and resize it to 192x(anything smaller or equal to 192) in PNG format)
+|	|    	|
+|	|	├── (Another project type)
 |	|
 |	|
 |	|
@@ -36,6 +37,8 @@ Repository root dir
 .
 .
 ```
+
+## Configure main.json
 Then it's time to populate JSON file in order to get all content of your project, this JSON file get all of those, 
 this is some basic example of how the structure of JSON file should look, looks similar to a directory structure you done above.
 ``` 
@@ -88,7 +91,8 @@ this is some basic example of how the structure of JSON file should look, looks 
       ]
    }
 ```
-##Project JSON file
+
+## Configure project.json
 This file contains all the informations about the project you added, and it's structure is simple:
 ```
 {
