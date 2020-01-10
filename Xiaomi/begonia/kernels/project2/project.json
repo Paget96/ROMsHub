@@ -1,15 +1,15 @@
 {
    "data":[{
-      "id":"unique string id",
-      "name":"Project name2",
-	  "update_date":"Date of the latest update",
+      "id":"identification_placeholder",
+      "name":"Project name",
+	  "update_date":"10.Jan.2020",
       "banner":"https://raw.githubusercontent.com/Paget96/ROMsHub/master/resources/icons/placeholder.png",
 	  "logo":"https://raw.githubusercontent.com/Paget96/ROMsHub/master/resources/icons/placeholder.png",
       "short_description":"Some short description related to the project",
       "description":"Some description related to the project",
-      "developer_name":"Project developer name",
-      "source_git":"Source link, if it's open sourced",
-      "forum_thread":"Put a forum thread, if exists",
-      "telegram":"Add telegram group or channel link, if exists"
+      "developer_name":"DevName",
+      "source_git":"https://github.com",
+      "forum_thread":"https://forum.xda-developers.com",
+      "telegram":"https://t.me/Paget96"
    }]
 }
