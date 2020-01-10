@@ -3,7 +3,7 @@
 Simple app to keep all the custom ROMs and kernels for devices at one place. In order to add a project you should follow a next structure
 
 Repository root dir
-|
+```|
 ├──	**/Brand** (This should contain a brand name e.g Samsung, Xiaomi, OnePlus...
 |	├── **Device code name**
 |	|    |
@@ -35,10 +35,11 @@ Repository root dir
 .
 .
 .
-
+```
 Then it's time to populate JSON file in order to get all content of your project, this JSON file get all of those, 
 this is some basic example of how the structure of JSON file should look, looks similar to a directory structure you done above.
- "brand":{
+``` 
+"brand":{
       "Xiaomi":[
          {
             "brand_icon":"https://raw.githubusercontent.com/Paget96/ROMsHub/master/Xiaomi/brand_icon.png",
@@ -86,9 +87,10 @@ this is some basic example of how the structure of JSON file should look, looks 
          }
       ]
    }
-
+```
 ##Project JSON file
 This file contains all the informations about the project you added, and it's structure is simple:
+```
 {
    "data":[{
       "id":"identification_placeholder",
@@ -106,3 +108,4 @@ This file contains all the informations about the project you added, and it's st
 }
 
 When you are done, create a pull request and I'll do a check soon as possible and get your project live in application.
+```
