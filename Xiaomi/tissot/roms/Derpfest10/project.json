@@ -1,0 +1,15 @@
+{
+   "data":[{
+      "id":"identification_placeholder",
+      "name":"Derpfest 10",
+	  "update_date":"16.Jan.2020",
+      "banner":"https://raw.githubusercontent.com/Paget96/ROMsHub/master/Xiaomi/tissot/roms/Derpfest10/logo.png",
+	  "logo":"https://raw.githubusercontent.com/Paget96/ROMsHub/master/Xiaomi/tissot/roms/Derpfest10/logo.png",
+      "short_description":"AOSIP is a quality custom ROM based purely on AOSP. ",
+      "description":"AOSIP is a quality custom ROM based purely on AOSP. Twisted with the latest features and blended with stability. We strive for perfection and it shows.",
+      "developer_name":"murtaza1326",
+      "source_git":"https://github.com/DerpLab",
+      "forum_thread":"https://forum.xda-developers.com/mi-a1/development/rom-aosip-derpfest-t4000915",
+      "telegram":"https://t.me/aosip_tissot"
+   }]
+}
