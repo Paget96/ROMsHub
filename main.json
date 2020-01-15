@@ -41,6 +41,24 @@
                   ]
                }
             }
+         },
+            "tissot":{
+               "device_model":"Mi A1",
+               "device_icon":"https://raw.githubusercontent.com/Paget96/ROMsHub/master/Xiaomi/tissot/device_icon.png",
+               "Kernels":{
+                  "project_type_icon":"https://raw.githubusercontent.com/Paget96/ROMsHub/master/resources/icons/placeholder.png",
+                  "project_json":[
+                     "https://raw.githubusercontent.com/Paget96/ROMsHub/master/Xiaomi/tissot/kernels/LightningKernel/project.json"
+                  ]
+               },
+               "Roms":{
+                  "project_type_icon":"https://raw.githubusercontent.com/Paget96/ROMsHub/master/resources/icons/placeholder.png",
+                  "project_json":[
+                     "https://raw.githubusercontent.com/Paget96/ROMsHub/master/Xiaomi/tissot/roms/RevengeOS3/project.json",
+                     "https://raw.githubusercontent.com/Paget96/ROMsHub/master/Xiaomi/tissot/roms/crDroid6/project.json"
+                  ]
+               }
+            }
          }
       ],
       "Samsung":[
