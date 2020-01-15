@@ -1,0 +1,15 @@
+{
+   "data":[{
+      "id":"identification_placeholder",
+      "name":"crDroid 6",
+	  "update_date":"15.Jan.2020",
+      "banner":"https://raw.githubusercontent.com/Paget96/ROMsHub/Xiaomi/tissot/roms/crDroid6/logo.png",
+	  "logo":"https://raw.githubusercontent.com/Paget96/ROMsHub/Xiaomi/tissot/roms/crDroid6/logo.png",
+      "short_description":"crDroid is designed to increase performance and reliability over stock Android for your device also attempting to bringing many of the best features existent today.",
+      "description":"crDroid is designed to increase performance and reliability over stock Android for your device also attempting to bringing many of the best features existent today. We're mainly based on LineageOS so use custom kernels compatible with them!",
+      "developer_name":"samuele94",
+      "source_git":"https://github.com/crdroidandroid",
+      "forum_thread":"",
+      "telegram":"https://t.me/crDroidA1"
+   }]
+}
