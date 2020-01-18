@@ -1,0 +1,15 @@
+{
+   "data":[{
+      "id":"identification_placeholder",
+      "name":"Pixel Experience 10",
+	  "update_date":"16.Jan.2020",
+      "banner":"https://raw.githubusercontent.com/Paget96/ROMsHub/master/Xiaomi/tissot/roms/PixelExperience10/logo.png",
+	  "logo":"https://raw.githubusercontent.com/Paget96/ROMsHub/master/Xiaomi/tissot/roms/PixelExperience10/logo.png",
+      "short_description":"Pixel Experience is an AOSP based ROM, with Google apps included and all Pixel goodies (launcher, wallpapers, icons, fonts, bootanimation).",
+      "description":"Pixel Experience is an AOSP based ROM, with Google apps included and all Pixel goodies (launcher, wallpapers, icons, fonts, bootanimation), Our mission is to offer the maximum possible stability and security, along with essential and useful features for the proper functioning of the device",
+      "developer_name":"abhinavagrd_1129",
+      "source_git":"https://github.com/PixelExperience",
+      "forum_thread":"https://forum.xda-developers.com/mi-a1/development/rom-pixel-experience-t3968933/post80260251#post80260251",
+      "telegram":"https://t.me/petissot"
+   }]
+}

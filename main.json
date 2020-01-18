@@ -53,8 +53,11 @@
                "Roms":{
                   "project_type_icon":"https://raw.githubusercontent.com/Paget96/ROMsHub/master/resources/icons/placeholder.png",
                   "project_json":[
-                     "https://raw.githubusercontent.com/Paget96/ROMsHub/master/Xiaomi/tissot/roms/RevengeOS3/project.json",
-                     "https://raw.githubusercontent.com/Paget96/ROMsHub/master/Xiaomi/tissot/roms/crDroid6/project.json"
+                     "https://raw.githubusercontent.com/Paget96/ROMsHub/master/Xiaomi/tissot/roms/crDroid6/project.json",
+                     "https://raw.githubusercontent.com/Paget96/ROMsHub/master/Xiaomi/tissot/roms/Derpfest10/project.json",
+                     "https://raw.githubusercontent.com/Paget96/ROMsHub/master/Xiaomi/tissot/roms/EvolutionX4/project.json",
+                     "https://raw.githubusercontent.com/Paget96/ROMsHub/master/Xiaomi/tissot/roms/PixelExperience10/project.json",
+                     "https://raw.githubusercontent.com/Paget96/ROMsHub/master/Xiaomi/tissot/roms/RevengeOS3/project.json"
                   ]
                }
             }
